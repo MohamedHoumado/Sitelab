@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sitelab/static/css/main.073c9b0a.css",
+    "main.js": "/sitelab/static/js/main.0abdf8fc.js",
+    "static/js/787.4510ae25.chunk.js": "/sitelab/static/js/787.4510ae25.chunk.js",
+    "index.html": "/sitelab/index.html",
+    "main.073c9b0a.css.map": "/sitelab/static/css/main.073c9b0a.css.map",
+    "main.0abdf8fc.js.map": "/sitelab/static/js/main.0abdf8fc.js.map",
+    "787.4510ae25.chunk.js.map": "/sitelab/static/js/787.4510ae25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0abdf8fc.js"
+  ]
+}
